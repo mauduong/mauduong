@@ -1,16 +1,13 @@
-### Hi there 👋
+# [![michael au-duong header](https://github.com/mauduong/mauduong/blob/main/assets/gh-banner.png)](https://mauduong.github.io/)
 
-<!--
-**mauduong/mauduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hallo 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm a Backend Developer, aspiring DevOps Engineer and former Analyst Programmer from New Zealand.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">If you'd like to contact me:</h2>
+<p align="center">
+  <a href="mailto:mauduong.contact@gmail.com"><img width="30" height="30" src="https://github.com/mauduong/mauduong/blob/main/assets/envelope-icon.svg"></a>
+  <a href="https://www.linkedin.com/in/mauduong/"><img width="30" height="30" src="https://github.com/mauduong/mauduong/blob/main/assets/linkedin-icon.svg"></a>
+</p>

@@ -1,9 +1,9 @@
-# [![michael au-duong header](https://github.com/mauduong/mauduong/blob/main/assets/gh-banner.png)](https://mauduong.github.io/)
+# [![michael au-duong header](https://github.com/mauduong/mauduong/blob/main/assets/Gh_Welcome_Readme.gif)](https://mauduong.github.io/)
 
-<h1 align="center">Hallo 👋</h1>
+<h1 align="center">Hey 👋</h1>
 
 <p align="center">
-  I'm a Backend Developer, aspiring DevOps Engineer and former Analyst Programmer from New Zealand.
+  I'm a Software Engineer and hobbyist game developer from Kiwiland currently living Kangarooland. I also dabble in Latte Art
 </p>
 
 <h4 align="center">If you'd like to contact me:</h2>

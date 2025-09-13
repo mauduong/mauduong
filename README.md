@@ -7,7 +7,7 @@
 <h1 align="center">Hey 👋</h1>
 
 <p align="center">
-  I'm a Software Engineer and hobbyist game developer from Kiwiland currently living Kangarooland. I also dabble in Latte Art
+  I'm a Software Engineer and hobbyist game developer from Kiwiland currently living in Kangarooland. I also dabble in Latte Art
 </p>
 
 <h4 align="center">If you'd like to contact me:</h2>

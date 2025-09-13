@@ -1,4 +1,8 @@
-# [![michael au-duong header](https://github.com/mauduong/mauduong/blob/main/assets/Gh_Welcome_Readme.gif)](https://mauduong.github.io/)
+<div align="center">
+  <a href="https://mauduong.github.io/">
+    <img src="https://github.com/mauduong/mauduong/blob/main/assets/Gh_Welcome_Readme.gif" alt="michael au-duong header"/>
+  </a>
+</div>
 
 <h1 align="center">Hey 👋</h1>
 
